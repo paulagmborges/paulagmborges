@@ -3,7 +3,7 @@ Meu nome é Paula Borges,
 
 - 🌱 I’m currently learning  HTML5, CSS3 e JavaScript.
 - 📫 How to reach me: paulabzambeli@gmail.com
-- 😄 Pronouns: Ela/dela.
+
 
 
 <div align="center">
@@ -17,18 +17,16 @@ Meu nome é Paula Borges,
   <img align="center" alt="paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="paula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="paula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="paula-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   
 </div>
   
 
   
   
-  <div> 
   
-  <a href = "paulabzambeli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulagmborges " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/paulagmborges/paulagmborges/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ 
+ 
+
