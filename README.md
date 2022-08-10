@@ -1,8 +1,7 @@
-### Hi there 👋
-Meu nome é Paula Borges,
+### Meu nome é Paula ,
 
-- 🌱 I’m currently learning  HTML5, CSS3 e JavaScript.
-- 📫 How to reach me: paulabzambeli@gmail.com
+- 🌱 atualmente estou estudando HTML5, CSS3 e JavaScript.
+- 📫 Meu contato: paulabzambeli@gmail.com
 
 
 
