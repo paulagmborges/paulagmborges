@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=paulagmborgesp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulagmborges&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
 
-- :hibiscus: Meu nome é Paula e sou carioca.
+- :hibiscus: Meu nome é Paula 
 - 📚 Atualmente estou estudando Desenvolvimento de Software com foco em back-end na Cubos Academy. 
 - 🎓 Estou cursando faculdade de Sistemas de Informação.
 - :mailbox_with_no_mail: Meu contato é : paulabzambeli@gmail.com 
