@@ -6,7 +6,7 @@
 - 📚 Atualmente estou estudando Desenvolvimento de Software com foco em back-end na Cubos Academy, onde é abordado lógica da Programação, Nodejs , SQL, PostgreSQL, Git e GitHub.
 - 💻Tenho conhecimentos em HTML , CSS , JavaScript.
 - 🎓 Estou cursando faculdade de Sistemas de Informação.
-- :mailbox_with_no_mail: Meu contato é : paulabzambeli@gmail.com 
+- :mailbox_with_no_mail: Meu contato é : pcmgbz@gmail.com 
 
 ## :point_right: Para me encontrar:
 
