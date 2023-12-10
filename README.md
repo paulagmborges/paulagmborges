@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=paulagmborgesp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulagmborges&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<br>
 - 🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
 - 📚 Atualmente estou estudando desenvolvimento de software com foco em back-end na Cubos Academy, onde é abordado lógica da programação, JavaScript, Nodejs, SQL, PostgreSQL, Git e GitHub.
 - 💻 Também tenho conhecimentos em HTML e CSS.<br>
