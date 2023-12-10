@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
-- 📚 Atualmente estou estudando desenvolvimento de software com foco em back-end na Cubos Academy, onde é abordado lógica da Programação, JavaScript, Nodejs, SQL, PostgreSQL, Git e GitHub.
+- 📚 Atualmente estou estudando desenvolvimento de software com foco em back-end na Cubos Academy, onde é abordado lógica da programação, JavaScript, Nodejs, SQL, PostgreSQL, Git e GitHub.
 - 💻 Também tenho conhecimentos em HTML e CSS.<br>
 - 🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
 
