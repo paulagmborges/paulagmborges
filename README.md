@@ -1,28 +1,37 @@
 #  Seja bem-vindo(a)! 
 ![](https://komarev.com/ghpvc/?username=paulagmborgesp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulagmborges&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🌺 Meu nome é Paula 
-- 📚 Atualmente estou estudando Desenvolvimento de Software com foco em back-end na Cubos Academy, onde é abordado lógica da Programação, Nodejs , SQL, PostgreSQL, Git e GitHub.
-- 💻Tenho conhecimentos em HTML , CSS , JavaScript.
-- 🎓 Estou cursando faculdade de Sistemas de Informação.
--  Meu contato é : pcmgbz@gmail.com 
-
-##  Para me encontrar:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulagmborges/)
+- 🌺 Meu nome é Paula , sou carioca e adoro praia, animais e tecnologia. <br>
+- 📚 Atualmente estou estudando desenvolvimento de software com foco em back-end na Cubos Academy, onde é abordado lógica da Programação, JavaScript, Nodejs, SQL, PostgreSQL, Git e GitHub.
+- 💻 Também tenho conhecimentos em HTML e CSS.<br>
+- 🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
 
 
-##  Skills:
 
-![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
+## 💌 Para entrar contato comigo: ⤵️
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=paulagmborges&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pcgmbz@gmail.com" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulagmborges/" alt="LinkedIn"/></a>
+
+
+## 🚀 Minhas Skills
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQ"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   
-  
+## Status
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulagmborges&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
   
  
  
