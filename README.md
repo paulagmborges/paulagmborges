@@ -5,7 +5,7 @@
 <br>
 - 🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
 - 📚 Atualmente estou estudando desenvolvimento de software com foco em back-end , estou fazendo um curso de Python e Django na WoMakersCode .
-- 💻 Também tenho conhecimentos em HTML, CSS, JavaScript, Nodejs, SQL, PostgreSQL, Git e GitHub.<br>
+- 💻 Também tenho conhecimentos em JavaScript, Nodejs, SQL, PostgreSQL, Git e GitHub.<br>
 - 🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
 
 
@@ -18,8 +18,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQ"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="DJANGO"/></code> 
 
