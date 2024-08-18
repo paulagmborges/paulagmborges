@@ -3,11 +3,17 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulagmborges&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
-- 🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
-- 📚 Atualmente estou estudando desenvolvimento de software com foco em back-end e AWS fundamentos no Programa AWS re/Start - Escola da Nuvem.<br>
-- 📚 Conclui os cursos de desenvolvimento back-end da Cubos Academy (NodeJs/ PostgreSQL) e da WoMakersCode (Python/Django).<br>
-- 💻 Também tenho conhecimentos em Nodejs, SQL, PostgreSQL, Python, Django, Git e GitHub.<br>
-- 🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
+
+🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
+📚 Atualmente estou estudando desenvolvimento de software na Cubos Academy - OnDemand (Node.js / TypeScript / Nest.js e React) e AWS Cloud.<br>
+📚 Conclui os cursos :
+    <br>
+  -  Desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
+  -  WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
+  -  Curso Re/Start AWS fundamentos da Escola da Nuvem -> Sou certificada como AWS Certified Cloud Practitioner.<br>
+    <br>
+ 
+🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
 
 
 
