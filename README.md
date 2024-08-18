@@ -10,7 +10,7 @@
     <br>
   -  Desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
   -  WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
-  -  Curso Re/Start AWS fundamentos da Escola da Nuvem -> Sou certificada como AWS Certified Cloud Practitioner.<br>
+  -  Curso Re/Start AWS fundamentos da Escola da Nuvem -> Sou certificada AWS Certified Cloud Practitioner.<br>
     <br>
  
 🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
