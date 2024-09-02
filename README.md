@@ -5,7 +5,7 @@
 <br>
 
 🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
-📚 Atualmente estou estudando desenvolvimento de software na Cubos Academy - OnDemand (Node.js / TypeScript / Nest.js e React) e AWS Cloud.<br>
+📚 Atualmente estou estudando desenvolvimento de software na Cubos Academy - OnDemand (JavaScript / TypeScript / Nodejs / Nest.js / React) e AWS Cloud.<br>
 📚 Conclui os cursos :
     <br>
   -  Desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
