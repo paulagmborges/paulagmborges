@@ -1,12 +1,13 @@
 #  Seja bem-vindo(a)! 
-![](https://komarev.com/ghpvc/?username=paulagmborgesp&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulagmborges&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=paulagmborgesp&color=000000)![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
 
-🌺 Meu nome é Paula , sou carioca e adoro praia, animais e seriados. <br>
-📚 Atualmente estou estudando desenvolvimento de software  (JavaScript / TypeScript / Nodejs / Nest.js / React).<br>
-📚 Conclui os cursos :
+🌺 Meu nome é Paula , sou carioca e estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
+<br>
+📚 Atualmente estou estudando desenvolvimento de software (JavaScript / TypeScript / Nodejs / Nest.js / React.js).<br>
+<br>
+🎓 Concluí os cursos :
     <br>
   -  Desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
   -  WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
@@ -14,8 +15,6 @@
   -  Curso DPCN - Desenvolvimento Profissional para Carreiras em Nuvem / Preparatório para a certificação SAA AWS - Escola da Nuvem.<br>
     <br>
  
-🎓 Estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
-
 
 
 ## 💌 Para entrar contato comigo: ⤵️
@@ -29,11 +28,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="DJANGO"/></code> 
 
-## Status
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulagmborges&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
   
  
  
