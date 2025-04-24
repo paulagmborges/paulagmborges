@@ -9,8 +9,9 @@
 <br>
 🎓 Concluí os cursos :
     <br>
-  -  Desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
-  -  WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
+  -  Programa de bolsas / estágio da Compass Uol em Front-end com TypeScript, ReactJs e Tailwnd CSS.
+  -  Curso de desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
+  -  Curso de back-end da WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
   -  Curso Re/Start AWS fundamentos da Escola da Nuvem -> Sou certificada AWS Certified Cloud Practitioner.<br>
   -  Curso DPCN - Desenvolvimento Profissional para Carreiras em Nuvem / Preparatório para a certificação SAA AWS - Escola da Nuvem.<br>
     <br>
@@ -27,6 +28,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQ"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="DJANGO"/></code> 
+
 
 
   
