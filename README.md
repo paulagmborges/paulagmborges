@@ -5,14 +5,14 @@
 
 🌺 Meu nome é Paula , sou carioca e estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
 <br>
-📚 Atualmente estou estudando desenvolvimento de software (JavaScript / TypeScript / Nodejs / Nest.js / React.js). 
+📚 Atualmente estou estudando desenvolvimento de software (JavaScript / TypeScript / Nodejs / Nest.js / React.js).<br> 
 E também estou fazendo o curso de desenvolvimento Full stack (React e Node) na SoulCode Academy<br>
 📚 Curso AWS developer na Escola da Nuvem.
    
 <br>
 🎓 Concluí os cursos :
     <br>
-  -  Programa de bolsas / estágio da Compass Uol em Front-end com TypeScript, ReactJs e Tailwnd CSS.
+  -  Programa de bolsas / estágio da Compass Uol em Front-end com TypeScript, ReactJs e Tailwnd CSS.<br>
   -  Curso de desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
   -  Curso de back-end da WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
   -  Curso Re/Start AWS fundamentos da Escola da Nuvem -> Sou certificada AWS Certified Cloud Practitioner e AWS Certified AI Cloud Practitioner .<br>
