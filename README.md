@@ -8,7 +8,7 @@
 
 Atualmente, estou focando em:
 
-- 💻 **Desenvolvimento Full Stack**: `JavaScript` / `TypeScript` / `Node.js` / `Nest.js` / `React.js`
+- 💻 **Desenvolvimento Full Stack**: `JavaScript`,`TypeScript`,`Node.js`,`Nest.js` e `React.js`
   - Cursando o programa Full Stack na **SoulCode Academy**.
 - ☁️ **Cloud Computing**: `AWS`
   - Cursando o programa AWS Developer na **Escola da Nuvem**.
