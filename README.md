@@ -1,6 +1,6 @@
-# Olá, sou a Paula! 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi!%20Bem-vindo%20ao%20meu%20perfil!&center=true&color=663399&width=450&height=50)
 
-**Estudante de Sistemas de Informação**,carioca e apaixonada por código.
+Meu nome é **Paula** ✨ sou estudante de **Sistemas de Informação**, carioca e apaixonada por código.💻
 
 ---
 
@@ -9,9 +9,9 @@
 Atualmente, estou focando em:
 
 - 💻 **Desenvolvimento Full Stack**: `JavaScript`,`TypeScript`,`Node.js`,`Nest.js` e `React.js`
-  - Cursando o programa Full Stack na **SoulCode Academy**.
+  - Cursando o programa Full Stack na **SoulCode Academy**.
 - ☁️ **Cloud Computing**: `AWS`
-  - Cursando o programa AWS Developer na **Escola da Nuvem**.
+  - Cursando o programa AWS Developer na **Escola da Nuvem**.
 
 ---
 
@@ -48,13 +48,15 @@ Cloud Context (ReactJS, TypeScript, Tailwind CSS)
 #### Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ### 📬 Fale comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulagmborges/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcgmbz@gmail.com)
-
 
 
 
