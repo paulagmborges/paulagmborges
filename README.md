@@ -1,36 +1,61 @@
-#  Seja bem-vindo(a)! 
-![](https://komarev.com/ghpvc/?username=paulagmborgesp&color=000000)![GitHub followers](https://img.shields.io/github/followers/paulagmborges?label=Follow&style=social)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<br>
+# Olá, sou a Paula! 👋
 
-🌺 Meu nome é Paula , sou carioca e estou cursando faculdade de Sistemas de Informação com previsão de formatura em setembro de 2025.<br>
-<br>
-📚 Atualmente estou estudando desenvolvimento de software (JavaScript / TypeScript / Nodejs / Nest.js / React.js).<br> 
-E também estou fazendo o curso de desenvolvimento Full stack (React e Node) na SoulCode Academy<br>
-📚 Curso AWS developer na Escola da Nuvem.
-   
-<br>
-🎓 Concluí os cursos :
-    <br>
-  -  Programa de bolsas / estágio da Compass Uol em Front-end com TypeScript, ReactJs e Tailwnd CSS.<br>
-  -  Curso de desenvolvimento back-end da Cubos Academy (NodeJs/ JavaScript/ SQL/ PostgreSQL/ GIT/ GitHub) <br>
-  -  Curso de back-end da WoMakersCode (Python/ Django/ SQL/ SQlite).<br>
-  -  Curso Re/Start AWS fundamentos da Escola da Nuvem -> Sou certificada AWS Certified Cloud Practitioner e AWS Certified AI Cloud Practitioner .<br>
-  -  Curso DPCN - Desenvolvimento Profissional para Carreiras em Nuvem / Preparatório para a certificação SAA AWS - Escola da Nuvem.<br>
-    <br>
- 
+**Estudante de Sistemas de Informação**,carioca e apaixonada por código.
+
+---
+
+### 📚 O que estou aprendendo
+
+Atualmente, estou focando em:
+
+- 💻 **Desenvolvimento Full Stack**: `JavaScript` / `TypeScript` / `Node.js` / `Nest.js` / `React.js`
+  - Cursando o programa Full Stack na **SoulCode Academy**.
+- ☁️ **Cloud Computing**: `AWS`
+  - Cursando o programa AWS Developer na **Escola da Nuvem**.
+
+---
+
+### 🏆 Certificações
+
+✅ [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/23174d27-e5f0-40d2-bdf2-2a021cb5e1d1/linked_in?t=shew13) <br>
+✅ [**AWS Certified AI Cloud Practitioner**](https://www.credly.com/badges/c48db0e7-6ec1-41cf-ab9a-9082f24c1790/linked_in?t=sunsdl)
+
+---
+
+### 🎓 Formação e Cursos
+
+- **Back-end Developer**: Cubos Academy (Node.js, JS, SQL, PostgreSQL, GIT)
+- **Back-end Developer**: WoMakersCode (Python, Django, SQL)
+- **Front-end**: Trilha Front-end Development (React) - AWS
+Cloud Context (ReactJS, TypeScript, Tailwind CSS)
+- **Cloud Computing**: Escola da Nuvem (AWS Re/Start e DPCN)
+
+---
+
+### 🚀 Habilidades Principais
+
+#### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### Ferramentas & Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 📬 Fale comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulagmborges/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcgmbz@gmail.com)
 
 
-## 💌 Para entrar contato comigo: ⤵️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulagmborges/)
-
-
-## 🚀 Minhas Skills
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQ"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="DJANGO"/></code> 
 
 
 
