@@ -24,10 +24,9 @@ Atualmente, estou focando em:
 
 ### 🎓 Formação e Cursos
 
-- **Back-end Developer**: Cubos Academy (Node.js, JS, SQL, PostgreSQL, GIT)
-- **Back-end Developer**: WoMakersCode (Python, Django, SQL)
-- **Front-end**: Trilha Front-end Development/ Compass Uol (React) - AWS
-Cloud Context (ReactJS, TypeScript, Tailwind CSS)
+- **Back-end Developer**: Cubos Academy (Node.js, JS, SQL, PostgreSQL, GIT)<br>
+- **Back-end Developer**: WoMakersCode (Python, Django, SQL)<Br>
+- **Front-end**: Trilha Front-end / Compass Uol (React) - AWS cloud context (ReactJS, TypeScript, Tailwind CSS).<br>
 - **Cloud Computing**: Escola da Nuvem (AWS Re/Start e DPCN)
 
 ---
