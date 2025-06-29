@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi!%20Bem-vindo%20ao%20meu%20perfil!&center=true&color=663399&width=450&height=50)
 
-Meu nome é **Paula** ✨ sou estudante de **Sistemas de Informação**, carioca e apaixonada por código.💻
+Meu nome é **Paula** ✨ sou estudante de **Sistemas de Informação**, carioca e apaixonada por código.
 
 ---
 
