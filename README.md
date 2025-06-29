@@ -8,10 +8,10 @@ Meu nome é **Paula** ✨ sou estudante de **Sistemas de Informação**, carioca
 
 Atualmente, estou focando em:
 
-- 💻 **Desenvolvimento Full Stack**: `JavaScript`,`TypeScript`,`Node.js`,`Nest.js` e `React.js`
-  - Cursando o programa Full Stack na **SoulCode Academy**.
-- ☁️ **Cloud Computing**: `AWS`
-  - Cursando o programa AWS Developer na **Escola da Nuvem**.
+- 💻 **Desenvolvimento Full Stack**: `JavaScript`, `TypeScript`, `Node.js`, `Nest.js` e `React.js`.<Br>
+- Cursando o programa Full Stack na **SoulCode Academy**.<Br>
+- ☁️ **Cloud Computing**: `AWS`. <Br>
+- Cursando o programa AWS Developer na **Escola da Nuvem**.
 
 ---
 
