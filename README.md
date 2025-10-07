@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi!%20Bem-vindo%20ao%20meu%20perfil!&center=true&color=663399&width=450&height=50)
 
-Meu nome é **Paula** ✨ sou estudante de **Sistemas de Informação**, carioca e apaixonada por código.
+Meu nome é **Paula** ✨ sou formada em **Sistemas de Informação**, carioca e apaixonada por código.
 
 ---
 
@@ -9,9 +9,8 @@ Meu nome é **Paula** ✨ sou estudante de **Sistemas de Informação**, carioca
 Atualmente, estou focando em:
 
 - 💻 **Desenvolvimento Full Stack**: `JavaScript`, `TypeScript`, `Node.js`, `Nest.js` e `React.js`.<Br>
-- Cursando o programa Full Stack na **SoulCode Academy**.<Br>
 - ☁️ **Cloud Computing**: `AWS`. <Br>
-- Cursando o programa AWS Developer na **Escola da Nuvem**.
+
 
 ---
 
@@ -27,7 +26,8 @@ Atualmente, estou focando em:
 - **Back-end Developer**: Cubos Academy (Node.js, JS, SQL, PostgreSQL, GIT)<br>
 - **Back-end Developer**: WoMakersCode (Python, Django, SQL)<Br>
 - **Front-end**: Trilha Front-end / Compass Uol (React) - AWS cloud context (ReactJS, TypeScript, Tailwind CSS).<br>
-- **Cloud Computing**: Escola da Nuvem (AWS Re/Start e DPCN)
+- **Full Stack** :SoulCode Academy (NodeJs, JS, HTML, CSS e ReactJs).<Br>
+- **Cloud Computing**: Escola da Nuvem (AWS Re/Start, DPCN e Developer)
 
 ---
 
