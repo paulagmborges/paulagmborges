@@ -23,6 +23,8 @@ Atualmente, estou focando em:
 
 ### 🎓 Formação e Cursos
 
+- **Bacharelado em Sistemas de Informação
+
 - **Back-end Developer**: Cubos Academy (Node.js, JS, SQL, PostgreSQL, GIT)<br>
 - **Back-end Developer**: WoMakersCode (Python, Django, SQL)<Br>
 - **Front-end**: Trilha Front-end / Compass Uol (React) - AWS cloud context (ReactJS, TypeScript, Tailwind CSS).<br>
