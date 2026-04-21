@@ -28,8 +28,9 @@ Atualmente, estou focando em:
 - **Front-end**: Trilha Front-end / Compass Uol (React) - AWS cloud context (ReactJS, TypeScript, Tailwind CSS).<br>
 - **Full Stack** :SoulCode Academy (NodeJs, JS, HTML, CSS e ReactJs).<Br>
 - **Cloud Computing**: Escola da Nuvem (AWS Re/Start, DPCN e Developer)
-- **Segurança da Informação** : nivelamento, básico e fundamental ( Hackers do Bem - RNP )
+- **Segurança da Informação** : nivelamento, básico e fundamental ( Hackers do Bem - RNP)
 - **DevSecOps** : Especialização ( Hackers do Bem - RNP)
+- **FullStack** : + Prati (ReactJs e Java)
 
 ---
 
