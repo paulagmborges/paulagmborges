@@ -32,7 +32,7 @@ Atualmente, estou focando em:
 - **Cloud Computing**: Escola da Nuvem (AWS Re/Start, DPCN e Developer)
 - **Segurança da Informação** : nivelamento, básico e fundamental ( Hackers do Bem - RNP)
 - **DevSecOps** : Especialização ( Hackers do Bem - RNP)
-- **FullStack** : + Prati (ReactJs e Java)
+
 
 ---
 
